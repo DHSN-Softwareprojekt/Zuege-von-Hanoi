@@ -1,0 +1,29 @@
+
+Person 
+
+Theorieblock 1 / Theorieblock 2 
+
+Karl Bremer 
+
+Technische Schulden / Voice of Developer 
+
+Ben Möckel  
+
+Epics, User Stories & Szenarien / Diffusion, Lock-In und Plattformenentscheidungen 
+
+Samira Drögsler 
+
+SRS als integrierendes Projektdokument / Projektplanung und Umgang mit Unsicherheit 
+
+Marwin Lohmann 
+
+Mobile first & responsive Gestaltung / Architektur Prinzipien im kleinen Projekt 
+
+Marco Weber 
+
+Architekturstile- und modelle / Quality-scenarios für nichtfunktionale Anforderungen 
+
+Luca Neubert 
+
+Agiles arbeiten mit SCRUM Elementen / Qualität von Anforderungen 
+
